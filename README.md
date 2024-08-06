@@ -133,8 +133,8 @@ The bot uses the Alpaca API to fetch historical and real-time stock price data
 
 ### Exit Criteria
 
-**Take-Profit and Stop-Loss**: Uses volatility-adjusted metrics based on the Average True Range (ATR) for adaptive risk management
-**Trailing Stops**: Implements trailing stop percentage of 1% that adjust according to price movements and volatility
+- **Take-Profit and Stop-Loss**: Uses volatility-adjusted metrics based on the Average True Range (ATR) for adaptive risk management
+- **Trailing Stops**: Implements trailing stop percentage of 1% that adjust saccording to price movements and volatility
 
 ### Risk Management
 
