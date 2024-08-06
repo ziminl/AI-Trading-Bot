@@ -57,10 +57,10 @@ Before using the trading bot, ensure you have the following:
    Create a '.env' file in the root directory and add your Alpaca API credentials
 
    ```plaintext
-   ALPACA_API_DATA_KEY_ID=your_api_data_key_id
-   ALPACA_API_DATA_SECRET_KEY=your_data_secret_key
-   APCA_API_TRADING_KEY_ID=your_api_trading_key_id
-   APCA_API_TRADING_SECRET_KEY=your_trading_secret_key
+   ALPACA_DATA_KEY=your_api_data_key_id
+   ALPACA_DATA_SECRET=your_data_secret_key
+   ALPACA_TRADING_KEY=your_api_trading_key_id
+   ALPACA_TRADING_SECRET=your_trading_secret_key
 ### Running the Trading Bot
 
 To ensure the AI-powered trading bot operates effectively and makes timely decisions, it must run continuously to retrieve real-time data, make predictions, and execute trades automatically. Continuous execution allows the bot to react promptly to market changes, enhancing its ability to capture profitable opportunities and manage risk dynamically.
