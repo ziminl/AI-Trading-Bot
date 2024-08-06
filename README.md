@@ -44,8 +44,8 @@ Before using the trading bot, ensure you have the following:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/finnjohnston/AI-Trading-Bot.git
+   cd AI-Trading-Bot
 2. **Install Dependencies:**
 
    Use 'pip' to install the required Python packages:
