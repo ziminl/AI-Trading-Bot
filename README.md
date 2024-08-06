@@ -139,7 +139,7 @@ The bot uses the Alpaca API to fetch historical and real-time stock price data
 ### Risk Management
 
 - **Position Sizing**: Trades are sized to risk a fixed percentage of the portfolio on each trade
-- **Stop-Loss adjustments**: Stop-loss levels aredynamically adjusted based on ATR to account for changing market conditions
+- **Stop-Loss adjustments**: Stop-loss levels are dynamically adjusted based on ATR to account for changing market conditions
 
 ## Results
 
