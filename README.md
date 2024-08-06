@@ -143,9 +143,9 @@ The bot uses the Alpaca API to fetch historical and real-time stock price data
 
 ## Results
 
-<img width="1151" alt="Screenshot 2024-08-06 at 3 58 52 PM" src="https://github.com/user-attachments/assets/05f5074c-670f-40b0-97df-8b15244e63b6">
+<img width="747" alt="Screenshot 2024-08-06 at 7 56 00 AM" src="https://github.com/user-attachments/assets/27af2d3b-662c-4e0e-8a6d-3a04f0470c0b">
 
-<img width="747" alt="Screenshot 2024-08-06 at 7 56 00 AM" src="https://github.com/user-attachments/assets/00f8e585-2063-4400-a484-ed44a3ed9fe8">
+<img width="1151" alt="Screenshot 2024-08-06 at 3 58 52 PM" src="https://github.com/user-attachments/assets/063ed785-6efd-4b61-8b40-f2585f990af4">
 
 ## Future Work
 
