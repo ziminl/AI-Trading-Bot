@@ -1,0 +1,6 @@
+pandas
+numpy
+pytz
+python-dotenv
+torch
+alpaca-py
